@@ -21,7 +21,7 @@
 
 # Name of the product you are building, beware that only Netgate is legally
 # authorized to build and distribute pfSense® software
-export PRODUCT_NAME="nonSense"
+export PRODUCT_NAME="fgfggf"
 export PRODUCT_URL="https://PRODUCT_URL/"
 
 # Define FreeBSD repository, branch and specific commit
